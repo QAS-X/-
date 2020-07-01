@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qas-x.github.io</id>
     <title>QAS&apos;s Base</title>
-    <updated>2020-07-01T13:17:14.264Z</updated>
+    <updated>2020-07-01T13:19:35.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qas-x.github.io"/>
     <link rel="self" href="https://qas-x.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>行走于苍穹之上，将星空献给你。</subtitle>
     <logo>https://qas-x.github.io/images/avatar.png</logo>
     <icon>https://qas-x.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, QAS&apos;s Base</rights>
