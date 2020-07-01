@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://qas-x.github.io/favicon.ico?v=1593609580462">
+<link rel="shortcut icon" href="https://qas-x.github.io/favicon.ico?v=1593610068318">
 <link rel="stylesheet" href="https://qas-x.github.io/styles/main.css">
 
 
@@ -20,6 +20,8 @@
 
     <meta name="description" content="行走于苍穹之上，将星空献给你。">
     
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    
   </head>
   <body>
     <div id="app" class="main">
@@ -28,7 +30,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://qas-x.github.io">
-        <img src="https://qas-x.github.io/images/avatar.png?v=1593609580462" class="site-logo">
+        <img src="https://qas-x.github.io/images/avatar.png?v=1593610068318" class="site-logo">
         <h1 class="site-title">QAS&#39;s Base</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -61,17 +63,37 @@
           </a>
         
       
+        
+          <a href="diary" class="site-nav">
+            日记
+          </a>
+        
+      
+        
+          <a href="share" class="site-nav">
+            分享
+          </a>
+        
+      
     </div>
   </div>
   <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
     <div class="social-container">
       
         
-      
+          <a class="social-link" href="https://github.com/QAS-X" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
         
       
         
       
+        
+      
+        
+          <a class="social-link" href="https://www.zhihu.com/people/sewahif" target="_blank">
+            <i class="fab fa-zhihu"></i>
+          </a>
         
       
         
@@ -92,21 +114,19 @@
           
             <article class="post-item">
               <div class="left">
-                <a href="https://qas-x.github.io/post/hello-gridea/">
-                  <h2 class="post-title">Hello Gridea</h2>
+                <a href="https://qas-x.github.io/post/about/">
+                  <h2 class="post-title">关于</h2>
                 </a>
                 <div class="post-date">
-                  2018-12-12
+                  2020-07-01
                 </div>
                 <div class="post-abstract">
-                  <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-
+                  
                 </div>
               </div>
               
-                <a class="right" href="https://qas-x.github.io/post/hello-gridea/">
-                  <div class="feature-container" style="background-image: url('https://qas-x.github.io/post-images/hello-gridea.png')">
+                <a class="right" href="https://qas-x.github.io/post/about/">
+                  <div class="feature-container" style="background-image: url('https://i.loli.net/2020/06/16/FMo4NLR1kIQGdSh.jpg')">
                   </div>
                 </a>
               
@@ -136,6 +156,11 @@ var app = new Vue({
 
 </script>
 
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
 
 
 
