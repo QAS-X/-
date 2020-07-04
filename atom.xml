@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qas-x.github.io</id>
     <title>QAS&apos;s Base</title>
-    <updated>2020-07-04T07:22:33.987Z</updated>
+    <updated>2020-07-04T07:26:58.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qas-x.github.io"/>
     <link rel="self" href="https://qas-x.github.io/atom.xml"/>
@@ -20,10 +20,11 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>分享汇总</p>
 <!-- more -->
-<p><a href="https://qas-x.github.io/post/tui-ge/">歌单</a></p>
-<p><a href="https://qas-x.github.io/post/tui-fan/">动漫</a></p>
-<p><a href="">电影</a></p>
-<p><a href="">游戏</a></p>
+<p><a href="https://qas-x.github.io/post/music/">歌单</a>（暂无</p>
+<p><a href="https://qas-x.github.io/post/anime/">动漫</a>（暂无</p>
+<p><a href="https://qas-x.github.io/post/film/">电影</a>（暂无</p>
+<p><a href="https://qas-x.github.io/post/game/">游戏</a>（暂无</p>
+<p>占坑待更……</p>
 ]]></content>
     </entry>
     <entry>
