@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qas-x.github.io</id>
     <title>QAS&apos;s Base</title>
-    <updated>2020-07-04T07:22:07.983Z</updated>
+    <updated>2020-07-04T07:22:33.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qas-x.github.io"/>
     <link rel="self" href="https://qas-x.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://qas-x.github.io/images/avatar.png</logo>
     <icon>https://qas-x.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, QAS&apos;s Base</rights>
-    <entry>
-        <title type="html"><![CDATA[推番]]></title>
-        <id>https://qas-x.github.io/post/tui-fan/</id>
-        <link href="https://qas-x.github.io/post/tui-fan/">
-        </link>
-        <updated>2020-07-04T07:20:00.000Z</updated>
-        <content type="html"><![CDATA[<p>占坑占坑……</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[分享]]></title>
         <id>https://qas-x.github.io/post/fen-xiang/</id>
@@ -33,15 +24,6 @@
 <p><a href="https://qas-x.github.io/post/tui-fan/">动漫</a></p>
 <p><a href="">电影</a></p>
 <p><a href="">游戏</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推歌]]></title>
-        <id>https://qas-x.github.io/post/tui-ge/</id>
-        <link href="https://qas-x.github.io/post/tui-ge/">
-        </link>
-        <updated>2020-07-04T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>占坑占坑……</p>
 ]]></content>
     </entry>
     <entry>
